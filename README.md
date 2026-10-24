@@ -27,3 +27,8 @@ This is a Python project I created to help track and analyze personal spending. 
 
 ## What I Learned
 Through this project, I practiced Python programming, working with user input, performing calculations, creating data visualizations, and exporting data to CSV files.
+## Expense Visualization
+
+The chart below shows an example of spending across four categories: food, gas, shopping, and entertainment.
+
+![Personal Expense Tracker Chart](expense_chart.png)
